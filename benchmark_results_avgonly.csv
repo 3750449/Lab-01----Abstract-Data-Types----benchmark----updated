@@ -1,0 +1,9 @@
+Structure,InputType,N,InsertTime(us),AvgLookup(ns)
+Unsorted Vector,,5000,128,1433
+Sorted Vector,,5000,4257,1348
+Unsorted Linked List,,5000,244,5483
+Sorted Linked List,,5000,2063,1035
+Unsorted Vector,,100000,668,30430
+Sorted Vector,,100000,1533024,30208
+Unsorted Linked List,,100000,3041,116637
+Sorted Linked List,,100000,950439,24338
